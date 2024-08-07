@@ -33,14 +33,14 @@
 		<meta property="term" refines="#subject-1">sh85037260</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Mystery</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">The mayor and treasurer of a small Yorkshire town fall under suspicion when a retired detective is found murdered.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;The business partners Anthony Mallalieu and Milford Cotherstone have been settled in the Yorkshire town of Highmarket for thirty years. Their building company has prospered, and their property holdings expanded. But their quiet, satisfied existence is upended when one of their tenants, a retired detective, is murdered. At first suspicion falls on an odd local character, but Mallalieu and Cotherstone themselves have a secret to hide, and ruptures in their placid exterior begin to emerge.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/j-s-fletcher"&gt;J. S. Fletcher’s&lt;/a&gt; initimate knowledge and love of Yorkshire inform this compelling mystery. As the plot thickens, local color and well-drawn characters heighten the drama and draw in the reader.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/20630</dc:source>
 		<dc:source>https://archive.org/details/boroughtreasurer0000jsfl</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/j-s-fletcher_the-borough-treasurer</meta>
@@ -50,10 +50,9 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/J._S._Fletcher</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n87819285</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">William Gunning King</dc:contributor>
+		<meta property="file-as" refines="#artist">King, William Gunning</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/no2007026473</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Bruce Albrecht</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Albrecht, Bruce</meta>
