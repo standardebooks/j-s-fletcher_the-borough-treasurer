@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/j-s-fletcher/the-borough-treasurer</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-08-08T16:55:03Z</dc:date>
+		<meta property="dcterms:modified">2024-08-08T16:55:03Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -33,16 +33,17 @@
 		<meta property="term" refines="#subject-1">sh85037260</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Mystery</meta>
-		<dc:description id="description">The mayor and treasurer of a small Yorkshire town fall under suspicion when a retired detective is found murdered.</dc:description>
+		<dc:description id="description">When a retired detective is found murdered, two business partners in a small Yorkshire town become the prime suspects.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;The business partners Anthony Mallalieu and Milford Cotherstone have been settled in the Yorkshire town of Highmarket for thirty years. Their building company has prospered, and their property holdings expanded. But their quiet, satisfied existence is upended when one of their tenants, a retired detective, is murdered. At first suspicion falls on an odd local character, but Mallalieu and Cotherstone themselves have a secret to hide, and ruptures in their placid exterior begin to emerge.&lt;/p&gt;
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/j-s-fletcher"&gt;J. S. Fletcher’s&lt;/a&gt; initimate knowledge and love of Yorkshire inform this compelling mystery. As the plot thickens, local color and well-drawn characters heighten the drama and draw in the reader.&lt;/p&gt;
+			&lt;p&gt;Business partners Anthony Mallalieu and Milford Cotherstone have been living in the Yorkshire town of Highmarket for thirty years. Their building company has prospered, and their property holdings expanded. But their quiet, satisfied existence is upended when one of their tenants, a retired detective, is found murdered. At first suspicion falls on an odd local character, but Mallalieu and Cotherstone themselves have a secret to hide, and ruptures in their placid exteriors begin to emerge.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/j-s-fletcher"&gt;J. S. Fletcher’s&lt;/a&gt; intimate knowledge and love of Yorkshire inform this compelling mystery. As the plot thickens, local color and well-drawn characters heighten the drama and draw in the reader.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/20630</dc:source>
 		<dc:source>https://archive.org/details/boroughtreasurer0000jsfl</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:production-notes">`scrap-book` is left unmodernized because the spacing is an important plot hint.</meta>
+		<meta property="se:word-count">78382</meta>
+		<meta property="se:reading-ease.flesch">72.97</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/j-s-fletcher_the-borough-treasurer</meta>
 		<dc:creator id="author">J. S. Fletcher</dc:creator>
 		<meta property="file-as" refines="#author">Fletcher, J. S.</meta>
@@ -73,6 +74,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
