@@ -43,7 +43,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/20630</dc:source>
 		<dc:source>https://archive.org/details/boroughtreasurer0000jsfl</dc:source>
 		<meta property="se:production-notes">`scrap-book` is left unmodernized because the spacing is an important plot hint.</meta>
-		<meta property="se:word-count">78382</meta>
+		<meta property="se:word-count">76210</meta>
 		<meta property="se:reading-ease.flesch">72.97</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/j-s-fletcher_the-borough-treasurer</meta>
 		<dc:creator id="author">J. S. Fletcher</dc:creator>
